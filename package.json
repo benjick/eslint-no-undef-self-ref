@@ -1,0 +1,15 @@
+{
+  "name": "eslint-no-undef-self-ref",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "3.7.1"
+  }
+}
